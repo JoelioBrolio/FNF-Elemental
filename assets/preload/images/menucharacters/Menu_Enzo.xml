@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Enzo.png"><SubTexture name="M Enzo Idle0000" x="0" y="0" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0001" x="411" y="0" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0002" x="0" y="377" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0003" x="411" y="377" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0004" x="0" y="754" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0005" x="411" y="377" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0006" x="0" y="377" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+<SubTexture name="M Enzo Idle0007" x="411" y="0" width="411" height="377" frameX="0" frameY="0" frameWidth="411" frameHeight="377" />
+</TextureAtlas>

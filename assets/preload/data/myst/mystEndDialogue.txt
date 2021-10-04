@@ -1,0 +1,12 @@
+:bf: !cliff2! ~empty~ ;empty; (...?)
+:dad: !cliff1! ~cliffhanger1~ ;miss; Yeah, no. It's clear you're good at this crap, and you're honestly just making me sound super bad compared to you. Listen BF, you're very skilled at rapping, but I'm not a good person for you to associate with if I'm nothing compared to you. Sorry BF, but you're better off without me.
+:bf: !cliff2! ~beep~ ;empty; Bap skdoo boop beep... (Enzo, are you okay...?)
+:dad: !cliff3! ~empty~ ;empty; (Forget it. I was never here.)
+:dad: !cliff4! ~empty~ ;glow; (...? It's still glowing?)
+:dad: !cliff5! ~empty~ ;glow; (Why does it glow when I-)
+:bf: !cliff6! ~beep~ ;empty; Bloop ba doop ska dep beep... (I really, really hope Enzo's doing fine...)
+:bf: !cliff6! ~beep~ ;gf; Beep...? (Wait, what's that noise?)
+:bf: !cliff7! ~beep~ ;empty; BEEEEEEEEEEE (AAAAAAAAAAAAAAAAAAAAAA)
+:dad: !cliff8! ~empty~ ;boom; *CRASH*
+:dad: !cliff9! ~empty~ ;empty; ...
+:dad: !cliff9! ~empty~ ;empty; (TO BE CONTINUED IN CHAPTER TWO)

@@ -1,0 +1,8 @@
+:dad: !9! ~empty~ ;empty; (Man, he's improved a lot!)
+:dad: !9! ~empty~ ;empty; (How was he able to put up such a fight...? In just a rap battle, no less!)
+:dad: !myst1! ~myst1~ ;empty; Wow. That was a lot better than I expected. You've gotten so much better since we last met. Props to you!
+:bf: !myst2! ~beep~ ;empty; Beep skdoop bep! (I've been practicing a lot!)
+:dad: !myst3! ~myst2~ ;empty; Ohhh, no wonder you beat me. You've been practicing a lot.
+:bf: !myst4! ~beep~ ;empty; Bloop da boop? (Uh, you okay for one more, Enzo?)
+:dad: !myst5! ~myst3~ ;empty; Fine. One more.
+:bf: !myst4! ~beep~ ;empty; Beep... (I hope Enzo's okay.)

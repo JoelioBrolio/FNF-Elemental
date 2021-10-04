@@ -1,0 +1,12 @@
+:dad: !1! ~empty~ ;empty; ...
+:dad: !2! ~empty~ ;footsteps; (!!!)
+:dad: !3! ~empty~ ;glow; (It's... glowing?)
+:bf: !4! ~beep~ ;miss; Beep!
+:dad: !4! ~empty~ ;empty; (BF?!)
+:dad: !5! ~reunion1~ ;empty; BF! Is that you? Haven't seen you since highschool ended! How are you?
+:bf: !5! ~beep~ ;empty; Beep skdoop! (It's been great! It's awesome to see you again, Enzo!)
+:dad: !6! ~reunion2~ ;empty; I see that you have a girlfriend too. She's small, like you... no offense! Someone so little yet so talented.
+:bf: !6! ~beep~ ;empty; Bap boop! (Are you up for a rap battle?)
+:dad: !7! ~reunion3~ ;empty; A rap battle? I'm kinda busy right now. But how about tomor-
+:bf: !8! ~beep~ ;empty; Brep! (Come on!)
+:dad: !9! ~reunion4~ ;empty; Alright alright, fine. But keep in mind that I'm not the best at rapping... but it won't hurt to sing a song, won't it?

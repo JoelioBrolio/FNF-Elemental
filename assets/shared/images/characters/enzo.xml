@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="enzo.png"><SubTexture name="enzo down10000" x="0" y="0" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo down20000" x="985" y="0" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo idle10000" x="1970" y="0" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo idle20000" x="0" y="903" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo idle30000" x="985" y="903" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo idle40000" x="1970" y="903" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo idle50000" x="0" y="1806" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo left10000" x="985" y="1806" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo left20000" x="1970" y="1806" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo left30000" x="0" y="2709" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo right10000" x="985" y="2709" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo right20000" x="1970" y="2709" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo right30000" x="0" y="3612" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo up10000" x="985" y="3612" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+<SubTexture name="enzo up20000" x="1970" y="3612" width="985" height="903" frameX="0" frameY="0" frameWidth="985" frameHeight="903" />
+</TextureAtlas>

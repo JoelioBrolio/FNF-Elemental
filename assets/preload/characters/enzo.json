@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				253,
+				120
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "enzo left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				227,
+				67
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "enzo down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				253,
+				120
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "enzo up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				253,
+				120
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "enzo right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				253,
+				120
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "enzo idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "enzo idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "enzo left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "enzo right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "enzo up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/enzo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "enzo",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
